@@ -1,6 +1,8 @@
 # FixBib
 ## Introduction
 
+Forked from https://github.com/alick/fixbib with minor changes.
+
 FixBib is a Greasemonkey script that can fix common errors when exporting
 BibTeX format citation from Google Scholar, IEEE Xplore, and ACM DL. It
 analyses the BibTeX entry and presents the fixed ones on export pages. The
@@ -13,8 +15,7 @@ report any issues you find.
 
 The latest release is available at [GitHub][gh] and [Greasy Fork][gf].
 
-[gh]: https://github.com/alick9188/fixbib/raw/master/fixbib.user.js
-[gf]: https://greasyfork.org/scripts/7187-fixbib
+[gh]: https://github.com/liyan2015/fixbib/blob/master/fixbib.user.js
 
 For an explanation of common BibTeX errors, please refer to
 <http://www.ece.ucdavis.edu/~jowens/biberrors.html>.
