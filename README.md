@@ -13,7 +13,7 @@ surely will not fix all problems. It might bring some errors too. Therefore, it
 allows you to further edit directly on the web page. Besides, you are welcome to
 report any issues you find.
 
-The latest release is available at [GitHub][gh] and [Greasy Fork][gf].
+The latest release is available at [GitHub][gh].
 
 [gh]: https://github.com/liyan2015/fixbib/blob/master/fixbib.user.js
 
