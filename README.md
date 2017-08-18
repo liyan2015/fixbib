@@ -15,7 +15,7 @@ report any issues you find.
 
 The latest release is available at [GitHub][gh].
 
-[gh]: https://github.com/liyan2015/fixbib/blob/master/fixbib.user.js
+[gh]: https://github.com/liyan2015/fixbib/raw/master/fixbib.user.js
 
 For an explanation of common BibTeX errors, please refer to
 <http://www.ece.ucdavis.edu/~jowens/biberrors.html>.
